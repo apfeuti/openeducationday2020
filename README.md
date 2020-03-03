@@ -60,14 +60,7 @@ Rechter Winkel).
 ![a=\frac{c}{2\sin(\frac{\gamma}{2})}](https://render.githubusercontent.com/render/math?math=a%3D%5Cfrac%7Bc%7D%7B2%5Csin(%5Cfrac%7B%5Cgamma%7D%7B2%7D)%7D)
 
 
-![Alt text](https://g.gravizo.com/svg?
-digraph G {
-node[shape=circle];
-a -- b [label = "-"];
-a -- c [label = "-"];
-{rank=same; b -- c [label="+"];}
-}
-)
+![Alt text](https://g.gravizo.com/svg?digraph G {node[shape=circle];a -- b [label = "-"];a -- c [label = "-"];{rank=same; b -- c [label="+"];}})
 
 $\frac{n!}{k!(n-k)!} = {n \choose k}$
 
