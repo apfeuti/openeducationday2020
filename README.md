@@ -56,18 +56,6 @@ Befehle auf den Kärtchen genau befolgen. Hinweis: Bei einem Rechteck
 beträgt der Winkel (Drehung) in den Ecken 90 Grad (ein sogenannter
 Rechter Winkel).
 
-![Alt text](https://g.gravizo.com/svg?
-@startuml
-:<math>int_0^1f(x)dx</math>;
-:<math>x^2+y_1+z_12^34</math>;
-note right
-Try also
-<math>d/dxf(x)=lim_(h->0)(f(x+h)-f(x))/h</math>
-<latex>P(y|\mathbf{x}) \mbox{ or } f(\mathbf{x})+\epsilon</latex>
-end note
-@enduml
-)
-
 
 ![a=\frac{c}{2\sin(\frac{\gamma}{2})}](https://render.githubusercontent.com/render/math?math=a%3D%5Cfrac%7Bc%7D%7B2%5Csin(%5Cfrac%7B%5Cgamma%7D%7B2%7D)%7D)
 
@@ -81,8 +69,6 @@ a -- c [label = "-"];
 }
 )
 
-$$
-\frac{n!}{k!(n-k)!} = {n \choose k}
-$$
+$\frac{n!}{k!(n-k)!} = {n \choose k}$
 
 
