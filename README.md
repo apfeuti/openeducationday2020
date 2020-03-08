@@ -134,3 +134,110 @@ Das LED-Licht des Roboters soll rot blinken bis du die Leertaste
 drückst.
 
 # Lösungen
+## Lösung Aufgabe 2
+![](./img/Lösung-A2.png)
+
+## Lösung Aufgabe 3
+![](./img/Lösung-A3.png)
+
+## Lösung Aufgabe 4
+![](./img/Lösung-A4.png)
+
+## Lösung Aufgabe 5
+![](./img/Lösung-A5.png)
+
+## Lösung Aufgabe 6
+![](./img/Lösung-A6.png)
+
+## Lösung Aufgabe 7
+![](./img/Lösung-A7.png)
+
+## Lösung Aufgabe 8
+![](./img/Lösung-A8.png)
+
+# Anhänge
+
+## Anhang Unterprogramme
+Alle Programme verwenden die roten Anweisungen, wie z. B.
+![](./img/drehe-links.png)
+
+
+Dies sind sogenannte Unterprogramme, die wir selbst definieren, damit
+die Lösungen einfacher werden. In Tat und Wahrheit verbirgt sich hinter
+der einfachen Anweisung «drehe nach links um ( ) Grad» wiederum eine
+Reihe von Anweisungen:
+- Motor A muss in die einte Richtung drehen
+- Motor B muss in die andere Richtung drehen
+- Motoren für eine gewisse Anzahl Rotationen drehen lassen.
+
+Unterprogramme haben u. a. folgende Vorteile:
+- Die Hauptprogramme (unsere Lösungen der Aufgaben) werden kürzer und
+  einfacher
+- Wiederholungen von den gleichen Sequenzen (z. B. für «drehe nach links
+  um ( ) Grad» lassen sich vermeiden.
+- Unterprogramme bilden eine sogenannte Abstraktion
+  - Der rote Teil ist die sogenannte «Schnittstelle» des Unterprogramms
+  -  Während die Schnittstelle gleich bleibt, kann sich die
+     Implementation ändern. Z. B. für
+     - Lego® Boost
+     - Lego® Mindstorms EV3
+     - Lego® WeDo 2.0
+     - Simulationsmodus ohne Roboter
+     
+TODO Kalibrierung erklären
+
+### Anhang Unterprogramme Lego® Boost
+![](./img/Unterprogramme-Lego-Boost.png)
+
+### Anhang Unterpogramme Simulation
+Auch ohne Roboter kannst du die Aufgaben dieses Workshops lösen. Anstatt
+den Roboter bewegen wir die Katze auf dem Bildschirm. Dazu müssen wir
+die Unterprogramme anpassen, resp. auf eine andere Art und Weise
+implementieren. Wichtig: Beachte, dass der rote Teil der Unterprogramme,
+die sogenannten Schnittstellen, gleich bleiben.
+
+Zuerst musst du drei Variablen erstellen:
+
+![](./img/Simulation-Variablen.png)
+
+Die Anweisungen «lösche alles» und «schalte Stift ein» findest du unter
+den Erweiterungen «Malstift». Der Malstift zeichnet die Spur der Katze.
+
+![](./img/Erweiterung-Malstift.png)
+
+Danach können die Unterprogramme wie folgt implementiert werden:
+
+![](./img/Unterprogramme-Simulation.png)
+
+## Anhang Scratch für zu Hause
+Wenn du zu Hause weiter Scratch ausprobieren willst, findest du hier
+eine kleine Starthilfe. Es gibt unendlich viele Möglichkeiten, was du
+mit Scratch programmieren kannst.
+
+Besuche diese Webseite: 
+[https://scratch.mit.edu](https://scratch.mit.edu)
+
+![](./img/Screenshot-Scratch-Website.png)
+
+Du kannst sofort loslegen mit Programmieren wenn du auf «Beginne mit dem
+Erstellen» klickst. Wenn du deine Programme abspeichern möchtest um sie
+später wieder zu verwenden, dann musst du unter «Werde Scratcher» ein
+Konto erstellen.
+
+Falls du einen Lego-Roboter (Mindstorms EV3, Boost oder WeDo 2.0) hast,
+muss du einmalig das Programm «ScratchLink» auf deinem PC installieren.
+Mehr dazu erfährst du hier:
+[https://scratch.mit.edu/boost](https://scratch.mit.edu/boost)
+
+Dann kannst du auf der Programmierseite links unten eine Erweiterung hinzufügen:
+
+![](./img/Erweiterung-hinzufuegen.png)
+
+Danach wählst du deinen Roboter aus:
+
+![](./img/Erweiterungen-Lego-Roboter.png)
+
+## Anhang intertessante Links
+TODO
+- Lego-Education
+- WeDo - Education App
