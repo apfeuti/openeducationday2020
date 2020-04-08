@@ -92,8 +92,7 @@ folgende zwei Gleichungen der gleichschenkligen Dreieckstheorie kennen:
 
 1. 2α + γ = 180°
 
-2. ![a=\frac{c}{2\sin(\frac{\gamma}{2})}](https://render.githubusercontent.com/render/math?math=a%3D%5Cfrac%7Bc%7D%7B2%5Csin(%5Cfrac%7B%5Cgamma%7D%7B2%7D)%7D
-   | width=250)
+2. ![a=\frac{c}{2\sin(\frac{\gamma}{2})}](https://render.githubusercontent.com/render/math?math=a=\frac{c}{2\sin(\frac{\gamma}{2})})
 
 Überlege dir:
 - Welche Seite und welche Winkel kennst du?
@@ -137,23 +136,37 @@ drückst.
 ## Lösung Aufgabe 2
 ![](./img/Lösung-A2.png)
 
+[Lösung_A2.sb3](./src/Lösungen(Lego-Boost)/Lösung_A2.sb3)
+
 ## Lösung Aufgabe 3
 ![](./img/Lösung-A3.png)
+
+[Lösung_A3.sb3](./src/Lösungen(Lego-Boost)/Lösung_A3.sb3)
 
 ## Lösung Aufgabe 4
 ![](./img/Lösung-A4.png)
 
+[Lösung_A4.sb3](./src/Lösungen(Lego-Boost)/Lösung_A4.sb3)
+
 ## Lösung Aufgabe 5
 ![](./img/Lösung-A5.png)
+
+[Lösung_A5.sb3](./src/Lösungen(Lego-Boost)/Lösung_A5.sb3)
 
 ## Lösung Aufgabe 6
 ![](./img/Lösung-A6.png)
 
+[Lösung_A6.sb3](./src/Lösungen(Lego-Boost)/Lösung_A6.sb3)
+
 ## Lösung Aufgabe 7
 ![](./img/Lösung-A7.png)
 
+[Lösung_A7.sb3](./src/Lösungen(Lego-Boost)/Lösung_A7.sb3)
+
 ## Lösung Aufgabe 8
 ![](./img/Lösung-A8.png)
+
+[Lösung_A8.sb3](./src/Lösungen(Lego-Boost)/Lösung_A8.sb3)
 
 # Anhänge
 
@@ -237,7 +250,7 @@ Danach wählst du deinen Roboter aus:
 
 ![](./img/Erweiterungen-Lego-Roboter.png)
 
-## Anhang intertessante Links
+## Anhang interessante Links
 TODO
 - Lego-Education
 - WeDo - Education App
