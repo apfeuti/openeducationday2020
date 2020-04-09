@@ -136,35 +136,54 @@ drückst.
 ## Lösung Aufgabe 2
 ![](./img/Lösung-A2.png)
 
-[Lösung_A2.sb3](./src/Lösungen(Lego-Boost)/Lösung_A2.sb3)
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383992918/editor) 
+ 
+ [Lösung_A2.sb3](./src/Lösungen(Lego-Boost)/Lösung_A2.sb3)
 
 ## Lösung Aufgabe 3
 ![](./img/Lösung-A3.png)
+
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993166/editor) 
 
 [Lösung_A3.sb3](./src/Lösungen(Lego-Boost)/Lösung_A3.sb3)
 
 ## Lösung Aufgabe 4
 ![](./img/Lösung-A4.png)
 
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993290/editor) 
+
 [Lösung_A4.sb3](./src/Lösungen(Lego-Boost)/Lösung_A4.sb3)
 
 ## Lösung Aufgabe 5
 ![](./img/Lösung-A5.png)
+
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993381/editor)
 
 [Lösung_A5.sb3](./src/Lösungen(Lego-Boost)/Lösung_A5.sb3)
 
 ## Lösung Aufgabe 6
 ![](./img/Lösung-A6.png)
 
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993487/editor)
+
 [Lösung_A6.sb3](./src/Lösungen(Lego-Boost)/Lösung_A6.sb3)
+
+##### Lösung Aufgabe 6 für Simulationsmodus (ohne Roboter)
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993561/editor)
+
+[Lösung_A6_Simulationsmodus.sb3](./src/Lösungen(Lego-Boost)/Lösung_A6_Simulationsmodus.sb3)
 
 ## Lösung Aufgabe 7
 ![](./img/Lösung-A7.png)
+
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993627/editor)
 
 [Lösung_A7.sb3](./src/Lösungen(Lego-Boost)/Lösung_A7.sb3)
 
 ## Lösung Aufgabe 8
 ![](./img/Lösung-A8.png)
+
+[Lösung im Scratch-Editor](https://scratch.mit.edu/projects/383993712/editor)
 
 [Lösung_A8.sb3](./src/Lösungen(Lego-Boost)/Lösung_A8.sb3)
 
