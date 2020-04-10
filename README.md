@@ -2,7 +2,7 @@
 ## Was ist Scratch?
 Scratch ist eine bildungsorientierte visuelle Programmiersprache, welche
 Kindern, Jugendlichen wie auch Erwachsenen den einfachen Einstieg in die
-Programmierung ermöglicht. Es eignet sich vorallem um Animationen und
+Programmierung ermöglicht. Sie eignet sich vorallem um Animationen und
 Spiele zu erstellen. Es kann jedoch auch externe Hardware angesprochen
 werden, wie die Lego-Roboter Boost, WeDo und Mindstorm. Mehr
 Informationen findest du [hier](https://scratch.mit.edu/about) und
@@ -45,6 +45,8 @@ Je nach Konstruktion des Roboters und Eigenschaften der Motoren, fährt
 jeder Roboter eine andere Distanz pro Radmotorumdrehung. Dazu musst du
 deinen Roboter zuerst kalibrieren.
 
+- Stelle sicher, dass Scratch-Link eine Verbindung zu deinem Roboter
+  aufgebaut hat
 - Öffne dazu das Kalibrierungsprogramm in Scratch:
 - [Kalibrierung Lego-Boost](https://scratch.mit.edu/projects/383994092/editor)
 - [Kalibrierung Mindstorms EV3](https://scratch.mit.edu/projects/384290898/editor)
@@ -74,7 +76,7 @@ aktuellen Browser.
 # Aufgaben
 Für jede Aufgabe brauchst du ein Template (Vorlage), welches sogenannte
 Unterprogramme zur Verfügung stellt. Für Details dazu siehe [Anhang
-Unterprogramme](#Anhang-Unterprogramme)
+Unterprogramme](#Anhang-Unterprogramme).
 
 Für jeden Lego-Roboter-Typ gibt es ein solches Template. Öffne das
 Template und **passe die Zahlen gemäss deiner Kalibrierung** an.
@@ -121,6 +123,8 @@ gleichschenkligen Dreieck sind immer zwei Winkel gleich gross und zwei
 Seiten gleich lang.
 
 <img src="./img/gleichschenkliges_dreieck.svg" width="300" />
+
+Quelle: Wikipedia
 
 Das Programm soll dich nach der **Seitenlänge c und nach dem Winkel α
 fragen.** Der Robotor soll bei Punkt B starten und schaut zu Beginn in
