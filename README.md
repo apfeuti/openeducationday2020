@@ -89,11 +89,11 @@ Programmiere deine Lösung "in" diesem Template.
 
 ## Aufgabe 1 (Programmierkärtchen)
 Ein Teilnehmer ist der Programmierer und ein anderer Teilnehmer «spielt»
-den Roboter. Der Programmierer reiht die Programmierkärtchen so an, dass
-der Roboter ein Rechteck abläuft. Der Roboter-Teilnehmer muss die
-Befehle auf den Kärtchen genau befolgen. Hinweis: Bei einem Rechteck
-beträgt der Winkel (Drehung) in den Ecken 90 Grad (ein sogenannter
-Rechter Winkel).
+den Roboter. Der Programmierer reiht die
+[Programmierkärtchen](./Programmierkärtchen.pdf) so an, dass der Roboter
+ein Rechteck abläuft. Der Roboter-Teilnehmer muss die Befehle auf den
+Kärtchen genau befolgen. Hinweis: Bei einem Rechteck beträgt der Winkel
+(Drehung) in den Ecken 90 Grad (ein sogenannter Rechter Winkel).
 
 ## Aufgabe 2 (Anweisungen in Reihenfolge)
 Jetzt gilt es ernst! Schreibe ein Scratch-Programm, so dass der
