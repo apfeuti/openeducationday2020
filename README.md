@@ -20,7 +20,7 @@ Um Scratch zu programmieren brauchst du nichts weiteres als einen PC
 (Windows, Mac, Linux) oder ein Tablet (Android, iOS) mit einem aktuellen
 Browser.
 
-###### Mit Roboter
+##### Mit Roboter
 
 Um einen Lego-Robotor mit Scratch zu programmieren, benötigst du
 Folgendes:
@@ -40,14 +40,51 @@ Am besten geht dies mit einem einfachen Roboter mit Raupenantrieb.
 
 TODO Foto hier
 
+##### Kalibrierung
+Je nach Konstruktion des Roboters und Eigenschaften der Motoren, fährt
+jeder Roboter eine andere Distanz pro Radmotorumdrehung. Dazu musst du
+deinen Roboter zuerst kalibrieren.
 
-###### Ohne Roboter
+- Öffne dazu das Kalibrierungsprogramm in Scratch:
+- [Kalibrierung Lego-Boost](https://scratch.mit.edu/projects/383994092/editor)
+- [Kalibrierung Mindstorms EV3](https://scratch.mit.edu/projects/384290898/editor)
+- [Kalibrierung WeDo2](https://scratch.mit.edu/projects/384284671/editor)
+- Beginne mit der Kalibrierung für vorwärts fahren. Ersetze die
+  angegebene Zahl (7.5) mit deiner eigenen Zahl, bis der Robotor 50cm
+  weit fährt. Das musst du ein paar mal ausprobieren.
+- Dann machst du das gleiche für rückwärtsfahren, rechts- und links
+  drehen. Löse dazu den roten Befehl von der grünen Fahne und hefte den
+  nächsten roten Befehl an die Fahne.
+- Siehe auch [Anhang Kalibrierung](#Anhang-Kalibrierung)
+
+**Anmerkung**
+
+Ich selbst habe nur den Lego-Boost zur Verfügung. D.h. ich konnte die
+Kalibrierungen und Templates für den Mindstorms und WeDo nicht testen.
+Ev. sind hier Anpassungen nötig. Falls du hier Unterstützung brauchst,
+[helfe ich gerne](#Kontakt).
+
+
+##### Ohne Roboter
 Du kannst auch ohne eigenen Roboter am Workshop teilnehmen und die
 Übungsaufgaben programmieren. Wir werden den Roboter ganz einfach mit
 Scratch simulieren. Dazu brauchst du nur einen Laptop mit einem
 aktuellen Browser.
 
 # Aufgaben
+Für jede Aufgabe brauchst du ein Template (Vorlage), welches sogenannte
+Unterprogramme zur Verfügung stellt. Für Details dazu siehe [Anhang
+Unterprogramme](#Anhang-Unterprogramme)
+
+Für jeden Lego-Roboter-Typ gibt es ein solches Template. Öffne das
+Template und **passe die Zahlen gemäss deiner Kalibrierung** an.
+Programmiere deine Lösung "in" diesem Template.
+- [Template Lego-Boost](https://scratch.mit.edu/projects/384172123/editor)
+- [Template Mindstorms EV3](https://scratch.mit.edu/projects/384285448/editor)
+- [Template WeDo2](https://scratch.mit.edu/projects/384179375/editor)
+- [Template Simulationsmodus](https://scratch.mit.edu/projects/384299903/editor)
+
+
 ## Aufgabe 1 (Programmierkärtchen)
 Ein Teilnehmer ist der Programmierer und ein anderer Teilnehmer «spielt»
 den Roboter. Der Programmierer reiht die Programmierkärtchen so an, dass
@@ -83,6 +120,7 @@ Der Roboter soll ein **gleichschenkliges Dreieck** fahren. Bei einem
 gleichschenkligen Dreieck sind immer zwei Winkel gleich gross und zwei
 Seiten gleich lang.
 
+<img src="./img/gleichschenkliges_dreieck.svg" width="300" />
 
 Das Programm soll dich nach der **Seitenlänge c und nach dem Winkel α
 fragen.** Der Robotor soll bei Punkt B starten und schaut zu Beginn in
@@ -133,6 +171,10 @@ Das LED-Licht des Roboters soll rot blinken bis du die Leertaste
 drückst.
 
 # Lösungen
+Die Lösungen sind für den Lego-Boost vorhanden, können aber für
+Mindstorms, WeDo und Simulationsmodus mit dem entsprechenden Template
+einfach adaptiert werden.
+
 ## Lösung Aufgabe 2
 ![](./img/Lösung-A2.png)
 
@@ -216,10 +258,13 @@ Unterprogramme haben u. a. folgende Vorteile:
      - Lego® WeDo 2.0
      - Simulationsmodus ohne Roboter
      
-TODO Kalibrierung erklären
 
 ### Anhang Unterprogramme Lego® Boost
 ![](./img/Unterprogramme-Lego-Boost.png)
+
+### Anhang Kalibrierung
+![](./img/Kalibrierung.png)
+
 
 ### Anhang Unterpogramme Simulation
 Auch ohne Roboter kannst du die Aufgaben dieses Workshops lösen. Anstatt
@@ -270,6 +315,14 @@ Danach wählst du deinen Roboter aus:
 ![](./img/Erweiterungen-Lego-Roboter.png)
 
 ## Anhang interessante Links
-TODO
-- Lego-Education
-- WeDo - Education App
+
+- [Lego-Education](https://education.lego.com/de-de)
+- [WeDo - Education App](https://education.lego.com/de-de/downloads/wedo-2/software)
+
+# Kontakt
+Für Fragen und Hilfestellungen kannst du mich gerne kontaktieren:
+- Mail: andreas.pfeuti@lightware-solutions.ch
+- <a 
+href="https://twitter.com/intent/tweet?screen_name=APfeuti&ref_src=twsrc%5Etfw"
+class="twitter-mention-button" data-show-count="false">Tweet to
+@APfeuti</a>
