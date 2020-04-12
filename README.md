@@ -38,7 +38,8 @@ sollte er folgende Eigenschaften aufweisen:
 
 Am besten geht dies mit einem einfachen Roboter mit Raupenantrieb.
 
-TODO Foto hier
+<a href="./img/Roboter.jpg"><img src="./img/Roboter.jpg" width="500"
+/></a>
 
 ##### Kalibrierung
 Je nach Konstruktion des Roboters und Eigenschaften der Motoren, fährt
@@ -95,6 +96,9 @@ ein Rechteck abläuft. Der Roboter-Teilnehmer muss die Befehle auf den
 Kärtchen genau befolgen. Hinweis: Bei einem Rechteck beträgt der Winkel
 (Drehung) in den Ecken 90 Grad (ein sogenannter Rechter Winkel).
 
+<a href="./img/Programmierkärtchen.jpg"><img
+src="./img/Programmierkärtchen.jpg" width="500" /></a>
+
 ## Aufgabe 2 (Anweisungen in Reihenfolge)
 Jetzt gilt es ernst! Schreibe ein Scratch-Programm, so dass der
 Lego-Roboter ebenfalls ein Rechteck abfährt. Als Geschwindigkeit wählst
@@ -115,7 +119,11 @@ brauchen zwei solcher Variablen und benennen sie «seiteLang» und
 vorstellen. Ein Zettelchen beschriftest du mit «seiteLang», das andere
 mit «seiteKurz». Darauf schreibst du die Anzahl cm der Seitenlänge.
 Genau wie bei unseren Programmierkärtchen! Scratch, die Katze, frägt uns
-nach der Seitenlänge und schreibt unsere Antwort auf das Zettelchen. 
+nach der Seitenlänge und schreibt unsere Antwort auf das Zettelchen.
+
+<a href="./img/Aufgabe3.jpg"><img src="./img/Aufgabe3.jpg" width="500"
+/></a>
+
 
 ## Aufgabe 4 (Berechnungen und Operatoren)
 Der Roboter soll ein **gleichschenkliges Dreieck** fahren. Bei einem
@@ -178,6 +186,11 @@ drückst.
 Die Lösungen sind für den Lego-Boost vorhanden, können aber für
 Mindstorms, WeDo und Simulationsmodus mit dem entsprechenden Template
 einfach adaptiert werden.
+
+## Lösung Aufgabe 1
+<a href="./img/Lösung-A1.jpg"><img src="./img/Lösung-A1.jpg" width="500"
+/></a>
+
 
 ## Lösung Aufgabe 2
 ![](./img/Lösung-A2.png)
